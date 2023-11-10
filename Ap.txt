@@ -1,23 +1,7 @@
 RAJESH|10463|KING
 my kiy🐯
-RAJESH|10249|KING
-user= Pankaj🇮🇳
-RAJESH|10241|KIN
-RAJESH|10326|KING
-user= Ayaz🇧🇩
-RAJESH|10437|KING
-user= RAJ🇮🇳
-RAJESH|10248|KING
-user=sushil🇮🇳
-RAJESH|10180|KING
-user=Ahmed🇧🇩
-10224
-user= Sumon🇧🇩
-RAJESH|10311|KING
-user= Jobayer Ahmed 🇮🇳
-RAJESH|10309|KING
-user= mark🇮🇳
-10107
+RAJESH|10193|KING
+user= Roman Hasan🇧🇩
 user=🇧🇩🇧🇩
 RAJESH|10386|KING
 user name Rotoŋ Mʌɭɭɩĸ 🇧🇩
